@@ -1,0 +1,3 @@
+改成小写：Ctrl+U
+
+改成大写：Ctrl+Shift+U
