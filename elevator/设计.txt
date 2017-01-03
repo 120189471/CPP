@@ -1,0 +1,6 @@
+class elevator()
+{
+	int status=0;
+		
+	
+}

@@ -1,0 +1,9 @@
+问题一 
+	int number3;
+	int min;
+	cin<<number3;
+	min==number3;
+	min没有被正确赋值
+
+问题二
+	输入数字式，cin如何结束输入，还是后面的数字抛弃;

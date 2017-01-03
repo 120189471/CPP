@@ -1,0 +1,10 @@
+vector 的操作
+
+v.empty()
+v.size()
+v.push_back(t)
+v[n]
+v1=v2
+v1={a,b,c...}
+v1==v2			v1和v2相等，当且仅当
+v1!=v2
